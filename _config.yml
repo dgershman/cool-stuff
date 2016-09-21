@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: A collection of curated cool things
+email: dgershman@securityscorecard.io
+
+#write html inside the double quotes to display in jumbotron
+description: "<h1>DannyG's Cool Stuff</h1>"
+
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://securityscorecard.github.io" # the base hostname & protocol for your site
+twitter_username: dannygnc
+github_username:  radius314
+
+# Build settings
+markdown: kramdown

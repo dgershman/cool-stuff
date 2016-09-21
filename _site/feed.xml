@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A collection of curated cool things</title>
+    <description>&lt;h1&gt;DannyG's Cool Stuff&lt;/h1&gt;</description>
+    <link>http://securityscorecard.github.io/</link>
+    <atom:link href="http://securityscorecard.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 20 Sep 2016 20:42:04 -0400</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 20:42:04 -0400</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Volume IV</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;How to be a Google power user - &lt;a href=&quot;http://imgur.com/gallery/2qmYyQy&quot;&gt;http://imgur.com/gallery/2qmYyQy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Periodic table of DevOps - &lt;a href=&quot;https://xebialabs.com/periodic-table-of-devops-tools/&quot;&gt;https://xebialabs.com/periodic-table-of-devops-tools/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Find a JS package to do something - &lt;a href=&quot;http://microjs.com/#&quot;&gt;http://microjs.com/#&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Turn an old android phone into a server - &lt;a href=&quot;http://lifehacker.com/5936339/servers-ultimate-turns-your-old-android-phone-into-a-tiny-multipurpose-server&quot;&gt;http://lifehacker.com/5936339/servers-ultimate-turns-your-old-android-phone-into-a-tiny-multipurpose-server&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ASCII Painter - &lt;a href=&quot;http://asciipaint.com/&quot;&gt;http://asciipaint.com/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;More Educational Resources - &lt;a href=&quot;http://www.computerscienceonline.org/courses/&quot;&gt;http://www.computerscienceonline.org/courses/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exokernels - &lt;a href=&quot;https://en.wikipedia.org/wiki/Exokernel&quot;&gt;https://en.wikipedia.org/wiki/Exokernel&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Funny - &lt;a href=&quot;http://qdb.us/53151&quot;&gt;http://qdb.us/53151&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 20 Sep 2016 12:56:00 -0400</pubDate>
+        <link>http://securityscorecard.github.io/links/2016/09/20/volume4.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/links/2016/09/20/volume4.html</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
+    
+      <item>
+        <title>Volume III</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;As a follow up to shell scripting aliases, &lt;a href=&quot;https://github.com/benjamine&quot;&gt;@benjamine&lt;/a&gt; has shared his as well - &lt;a href=&quot;https://github.com/benjamine/paracas/tree/master/git#using-shell-aliases&quot;&gt;https://github.com/benjamine/paracas/tree/master/git#using-shell-aliases&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Another text editor called Light Table &lt;a href=&quot;http://lighttable.com/&quot;&gt;http://lighttable.com/&lt;/a&gt;, has a tighter integration with live editing and the browser.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A catalog of programming tasks (some you’ve probably seen on a interview somewhere, or in school) &lt;a href=&quot;http://rosettacode.org/wiki/Category:Programming_Tasks&quot;&gt;http://rosettacode.org/wiki/Category:Programming_Tasks&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nice collection of programming anti-patterns -  &lt;a href=&quot;http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html&quot;&gt;http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bizarre programming languages - &lt;a href=&quot;http://listverse.com/2011/02/17/top-10-truly-bizarre-programming-languages/&quot;&gt;http://listverse.com/2011/02/17/top-10-truly-bizarre-programming-languages/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Machine learning video library - &lt;a href=&quot;http://work.caltech.edu/library/&quot;&gt;http://work.caltech.edu/library/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Container Security Analyzer - &lt;a href=&quot;https://coreos.com/blog/clair-v1.html&quot;&gt;https://coreos.com/blog/clair-v1.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 08 Sep 2016 00:51:00 -0400</pubDate>
+        <link>http://securityscorecard.github.io/links/2016/09/08/volume3.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/links/2016/09/08/volume3.html</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
+    
+      <item>
+        <title>Volume II</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Schedule appointments with people you don’t know - &lt;a href=&quot;https://calendly.com&quot;&gt;https://calendly.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/Seanstoppable&quot;&gt;@Seanstoppable&lt;/a&gt; asked about what tool I use to organize and plan, I run Kanban on myself and create columns for all my work using - &lt;a href=&quot;https://trello.com&quot;&gt;https://trello.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On that same topic, there are a lot of resources on this topic - &lt;a href=&quot;http://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640&quot;&gt;http://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;MIT has tons of free online courses (called Open Courseware), I’ve highlighted the Computer Science ones - &lt;a href=&quot;http://ocw.mit.edu/courses/find-by-topic/#cat=business&amp;amp;subcat=computerscience&quot;&gt;http://ocw.mit.edu/courses/find-by-topic/#cat=business&amp;amp;subcat=computerscience&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;On that (learning) note, some free &amp;amp; legal books - &lt;a href=&quot;http://www.techiestuffs.com/free-computer-programming-ebooks-free-and-legal-download/&quot;&gt;http://www.techiestuffs.com/free-computer-programming-ebooks-free-and-legal-download/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We sent this around in the Platform Engineering channel, but I thought I’d reshare it.  This talk at Dockercon 2015 outlines dockerizing desktop applications - &lt;a href=&quot;https://www.youtube.com/watch?v=1qlLUf7KtAw&quot;&gt;https://www.youtube.com/watch?v=1qlLUf7KtAw&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Here is some additional resources for that - &lt;a href=&quot;https://blog.jessfraz.com/post/docker-containers-on-the-desktop/&quot;&gt;https://blog.jessfraz.com/post/docker-containers-on-the-desktop/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 17 Aug 2016 22:39:00 -0400</pubDate>
+        <link>http://securityscorecard.github.io/links/2016/08/17/volume2.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/links/2016/08/17/volume2.html</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
+    
+      <item>
+        <title>Volume I</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;CommandlineFu - a collection of commands to accomplish various tasks, based off a rating system &lt;a href=&quot;http://www.commandlinefu.com&quot;&gt;http://www.commandlinefu.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ASCII Art/Banner Creator - &lt;a href=&quot;http://patorjk.com/software/taag/#p=display&amp;amp;f=Patorjk-HeX&amp;amp;t=Type%20Something%20&quot;&gt;http://patorjk.com/software/taag/#p=display&amp;amp;f=Patorjk-HeX&amp;amp;t=Type%20Something%20&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;First person engine in 265 lines of code - &lt;a href=&quot;http://www.playfuljs.com/a-first-person-engine-in-265-lines&quot;&gt;http://www.playfuljs.com/a-first-person-engine-in-265-lines&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tool to comparing several popular languages side-by-side reference - &lt;a href=&quot;http://hyperpolyglot.org/scripting&quot;&gt;http://hyperpolyglot.org/scripting&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Code on your phone - &lt;a href=&quot;http://forum.xda-developers.com/android/software/app-dcoder-mobile-coding-platform-t3433877&quot;&gt;http://forum.xda-developers.com/android/software/app-dcoder-mobile-coding-platform-t3433877&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A-Z index of Bash commands - &lt;a href=&quot;http://ss64.com/bash/&quot;&gt;http://ss64.com/bash/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Using aliases for command-line functions for speed - &lt;a href=&quot;https://www.eriwen.com/productivity/aliases-and-functions/&quot;&gt;https://www.eriwen.com/productivity/aliases-and-functions/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I’ve actually shared mine here for zsh- &lt;a href=&quot;https://gist.github.com/radius314/6a84ea8274129381cc3bcdc70cd5932f&quot;&gt;https://gist.github.com/radius314/6a84ea8274129381cc3bcdc70cd5932f&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/Seanstoppable&quot;&gt;@Seanstoppable&lt;/a&gt; has some of his accessible as well - &lt;a href=&quot;https://github.com/Seanstoppable/dotfiles&quot;&gt;https://github.com/Seanstoppable/dotfiles&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 09 Aug 2016 11:26:00 -0400</pubDate>
+        <link>http://securityscorecard.github.io/links/2016/08/09/volume1.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/links/2016/08/09/volume1.html</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
+    
+  </channel>
+</rss>

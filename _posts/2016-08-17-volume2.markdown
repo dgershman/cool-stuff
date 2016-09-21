@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Volume II"
+date:   2016-08-17 22:39 -0400
+categories: links
+author: dannyg
+---
+- Schedule appointments with people you don’t know - <https://calendly.com>
+
+- [@Seanstoppable](https://github.com/Seanstoppable) asked about what tool I use to organize and plan, I run Kanban on myself and create columns for all my work using - <https://trello.com>
+
+- On that same topic, there are a lot of resources on this topic - <http://lifehacker.com/productivity-101-how-to-use-personal-kanban-to-visuali-1687948640>
+
+- MIT has tons of free online courses (called Open Courseware), I’ve highlighted the Computer Science ones - <http://ocw.mit.edu/courses/find-by-topic/#cat=business&subcat=computerscience>
+
+- On that (learning) note, some free & legal books - <http://www.techiestuffs.com/free-computer-programming-ebooks-free-and-legal-download/>
+
+- We sent this around in the Platform Engineering channel, but I thought I’d reshare it.  This talk at Dockercon 2015 outlines dockerizing desktop applications - <https://www.youtube.com/watch?v=1qlLUf7KtAw>
+
+- Here is some additional resources for that - <https://blog.jessfraz.com/post/docker-containers-on-the-desktop/>

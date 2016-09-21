@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Volume IV"
+date:   2016-09-20 12:56 -0400
+categories: links
+author: dannyg
+---
+- How to be a Google power user - <http://imgur.com/gallery/2qmYyQy>
+
+- Periodic table of DevOps - <https://xebialabs.com/periodic-table-of-devops-tools/>
+
+- Find a JS package to do something - <http://microjs.com/#>
+
+- Turn an old android phone into a server - <http://lifehacker.com/5936339/servers-ultimate-turns-your-old-android-phone-into-a-tiny-multipurpose-server>
+
+- ASCII Painter - <http://asciipaint.com/>
+
+- More Educational Resources - <http://www.computerscienceonline.org/courses/>
+
+- Exokernels - <https://en.wikipedia.org/wiki/Exokernel>
+
+- Funny - <http://qdb.us/53151>

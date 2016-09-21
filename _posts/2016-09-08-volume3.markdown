@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Volume III"
+date:   2016-09-08 00:51 -0400
+categories: links
+author: dannyg
+---
+- As a follow up to shell scripting aliases, [@benjamine](https://github.com/benjamine) has shared his as well - <https://github.com/benjamine/paracas/tree/master/git#using-shell-aliases>
+
+- Another text editor called Light Table <http://lighttable.com/>, has a tighter integration with live editing and the browser.
+
+- A catalog of programming tasks (some you’ve probably seen on a interview somewhere, or in school) <http://rosettacode.org/wiki/Category:Programming_Tasks>
+
+- Nice collection of programming anti-patterns -  <http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html>
+
+- Bizarre programming languages - <http://listverse.com/2011/02/17/top-10-truly-bizarre-programming-languages/>
+
+- Machine learning video library - <http://work.caltech.edu/library/>
+
+- Container Security Analyzer - <https://coreos.com/blog/clair-v1.html>
