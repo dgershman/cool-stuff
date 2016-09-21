@@ -14,7 +14,7 @@ description: "<h1>DannyG's Cool Stuff</h1>"
 
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/cool-stuff" # the subpath of your site, e.g. /blog
 url: "http://securityscorecard.github.io" # the base hostname & protocol for your site
 twitter_username: dannygnc
 github_username:  radius314
