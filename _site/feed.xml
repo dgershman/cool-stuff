@@ -3,11 +3,46 @@
   <channel>
     <title>A collection of curated cool things</title>
     <description>&lt;h1&gt;DannyG's Cool Stuff&lt;/h1&gt;</description>
-    <link>http://securityscorecard.github.io/</link>
-    <atom:link href="http://securityscorecard.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Sep 2016 20:45:41 -0400</pubDate>
-    <lastBuildDate>Tue, 20 Sep 2016 20:45:41 -0400</lastBuildDate>
+    <link>http://securityscorecard.github.io/cool-stuff/</link>
+    <atom:link href="http://securityscorecard.github.io/cool-stuff/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 14 Oct 2016 00:57:11 -0400</pubDate>
+    <lastBuildDate>Fri, 14 Oct 2016 00:57:11 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Volume V</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Record and share your terminal sessions - &lt;a href=&quot;https://asciinema.org/&quot;&gt;https://asciinema.org/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Great mail desktop client for OSX that I’ve been using for several weeks now - &lt;a href=&quot;http://airmailapp.com/&quot;&gt;http://airmailapp.com/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A comprehensive list of planets, could be useful for repo/project names? - &lt;a href=&quot;http://www.minorplanetcenter.net/iau/lists/MPNames.html&quot;&gt;http://www.minorplanetcenter.net/iau/lists/MPNames.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How to fix any computer - &lt;a href=&quot;http://theoatmeal.com/blog/fix_computer&quot;&gt;http://theoatmeal.com/blog/fix_computer&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What different sorting algorithms sound like - &lt;a href=&quot;https://www.youtube.com/watch?v=t8g-iYGHpEA&quot;&gt;https://www.youtube.com/watch?v=t8g-iYGHpEA&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;All about QR codes &amp;amp; destruction of them - &lt;a href=&quot;http://www.datagenetics.com/blog/november12013/index.html&quot;&gt;http://www.datagenetics.com/blog/november12013/index.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Random number theory &amp;amp; cybersecurity - &lt;a href=&quot;https://news.utexas.edu/2016/05/16/computer-science-breakthrough-could-improve-cybersecurity&quot;&gt;https://news.utexas.edu/2016/05/16/computer-science-breakthrough-could-improve-cybersecurity&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 14 Oct 2016 00:41:00 -0400</pubDate>
+        <link>http://securityscorecard.github.io/cool-stuff/links/2016/10/14/volume5.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/cool-stuff/links/2016/10/14/volume5.html</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
     
       <item>
         <title>Volume IV</title>
@@ -39,8 +74,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 20 Sep 2016 12:56:00 -0400</pubDate>
-        <link>http://securityscorecard.github.io/links/2016/09/20/volume4.html</link>
-        <guid isPermaLink="true">http://securityscorecard.github.io/links/2016/09/20/volume4.html</guid>
+        <link>http://securityscorecard.github.io/cool-stuff/links/2016/09/20/volume4.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/cool-stuff/links/2016/09/20/volume4.html</guid>
         
         
         <category>links</category>
@@ -74,8 +109,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 08 Sep 2016 00:51:00 -0400</pubDate>
-        <link>http://securityscorecard.github.io/links/2016/09/08/volume3.html</link>
-        <guid isPermaLink="true">http://securityscorecard.github.io/links/2016/09/08/volume3.html</guid>
+        <link>http://securityscorecard.github.io/cool-stuff/links/2016/09/08/volume3.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/cool-stuff/links/2016/09/08/volume3.html</guid>
         
         
         <category>links</category>
@@ -109,8 +144,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 17 Aug 2016 22:39:00 -0400</pubDate>
-        <link>http://securityscorecard.github.io/links/2016/08/17/volume2.html</link>
-        <guid isPermaLink="true">http://securityscorecard.github.io/links/2016/08/17/volume2.html</guid>
+        <link>http://securityscorecard.github.io/cool-stuff/links/2016/08/17/volume2.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/cool-stuff/links/2016/08/17/volume2.html</guid>
         
         
         <category>links</category>
@@ -150,8 +185,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 09 Aug 2016 11:26:00 -0400</pubDate>
-        <link>http://securityscorecard.github.io/links/2016/08/09/volume1.html</link>
-        <guid isPermaLink="true">http://securityscorecard.github.io/links/2016/08/09/volume1.html</guid>
+        <link>http://securityscorecard.github.io/cool-stuff/links/2016/08/09/volume1.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/cool-stuff/links/2016/08/09/volume1.html</guid>
         
         
         <category>links</category>

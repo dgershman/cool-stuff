@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Volume V"
+date:   2016-10-14 00:41 -0400
+categories: links
+author: dannyg
+---
+- Record and share your terminal sessions - <https://asciinema.org/>
+
+- Great mail desktop client for OSX that I've been using for several weeks now - <http://airmailapp.com/>
+
+- A comprehensive list of planets, could be useful for repo/project names? - <http://www.minorplanetcenter.net/iau/lists/MPNames.html>
+
+- How to fix any computer - <http://theoatmeal.com/blog/fix_computer>
+
+- What different sorting algorithms sound like - <https://www.youtube.com/watch?v=t8g-iYGHpEA>
+
+- All about QR codes & destruction of them - <http://www.datagenetics.com/blog/november12013/index.html>
+
+- Random number theory & cybersecurity - <https://news.utexas.edu/2016/05/16/computer-science-breakthrough-could-improve-cybersecurity>
