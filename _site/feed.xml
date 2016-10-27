@@ -5,9 +5,44 @@
     <description>&lt;h1&gt;DannyG's Cool Stuff&lt;/h1&gt;</description>
     <link>http://securityscorecard.github.io/cool-stuff/</link>
     <atom:link href="http://securityscorecard.github.io/cool-stuff/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Oct 2016 00:57:11 -0400</pubDate>
-    <lastBuildDate>Fri, 14 Oct 2016 00:57:11 -0400</lastBuildDate>
+    <pubDate>Thu, 27 Oct 2016 13:39:25 -0400</pubDate>
+    <lastBuildDate>Thu, 27 Oct 2016 13:39:25 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Volume VI</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;GPG signing commits in Sourcetree - &lt;a href=&quot;https://confluence.atlassian.com/sourcetreekb/setup-gpg-to-sign-commits-within-sourcetree-765397791.html&quot;&gt;https://confluence.atlassian.com/sourcetreekb/setup-gpg-to-sign-commits-within-sourcetree-765397791.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Building custom Ansible modules - &lt;a href=&quot;http://blog.toast38coza.me/custom-ansible-module-hello-world/&quot;&gt;http://blog.toast38coza.me/custom-ansible-module-hello-world/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Docker w/in Docker - &lt;a href=&quot;https://blog.docker.com/2013/09/docker-can-now-run-within-docker/&quot;&gt;https://blog.docker.com/2013/09/docker-can-now-run-within-docker/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stupid encryption mistakes criminals make - &lt;a href=&quot;http://www.infoworld.com/article/3130672/encryption/stupid-encryption-mistakes-criminals-make.html&quot;&gt;http://www.infoworld.com/article/3130672/encryption/stupid-encryption-mistakes-criminals-make.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Handy programs to carry on a USB stick - &lt;a href=&quot;http://www.snapfiles.com/features/ed_usb_software.html&quot;&gt;http://www.snapfiles.com/features/ed_usb_software.html&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Animated Gifs That Show Things Working - &lt;a href=&quot;http://www.smosh.com/smosh-pit/photos/animated-gifs-actually-explain-how-world-works&quot;&gt;http://www.smosh.com/smosh-pit/photos/animated-gifs-actually-explain-how-world-works&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Code Combat Learning Tool - &lt;a href=&quot;https://codecombat.com/&quot;&gt;https://codecombat.com/&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 26 Oct 2016 13:19:00 -0400</pubDate>
+        <link>http://securityscorecard.github.io/cool-stuff/links/2016/10/26/volume6.html</link>
+        <guid isPermaLink="true">http://securityscorecard.github.io/cool-stuff/links/2016/10/26/volume6.html</guid>
+        
+        
+        <category>links</category>
+        
+      </item>
     
       <item>
         <title>Volume V</title>

@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Volume VI"
+date:   2016-10-26 13:19 -0400
+categories: links
+author: dannyg
+---
+- GPG signing commits in Sourcetree - <https://confluence.atlassian.com/sourcetreekb/setup-gpg-to-sign-commits-within-sourcetree-765397791.html>
+
+- Building custom Ansible modules - <http://blog.toast38coza.me/custom-ansible-module-hello-world/>
+
+- Docker w/in Docker - <https://blog.docker.com/2013/09/docker-can-now-run-within-docker/>
+
+- Stupid encryption mistakes criminals make - <http://www.infoworld.com/article/3130672/encryption/stupid-encryption-mistakes-criminals-make.html>
+
+- Handy programs to carry on a USB stick - <http://www.snapfiles.com/features/ed_usb_software.html>
+
+- Animated Gifs That Show Things Working - <http://www.smosh.com/smosh-pit/photos/animated-gifs-actually-explain-how-world-works>
+
+- Code Combat Learning Tool - <https://codecombat.com/>
