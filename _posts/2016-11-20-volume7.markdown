@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Volume VII"
+date:   2016-11-20 09:33 -0500
+categories: links
+author: dannyg
+---
+- How to use Github to recruit developers - <https://www.lever.co/blog/recruiting-developers-on-github-a-step-by-step-guide>
+
+- Using an Xbox 360 controller on a Mac to play Minecraft - <https://www.youtube.com/watch?v=_wjQy2B6FRs>
+
+- Yubikey, hardware based 2-factor auth - <https://www.yubico.com/products/yubikey-hardware/>
+
+- 10 quick and easy team building activities - <https://www.huddle.com/blog/team-building-activities/>
+
+- Unix epoch t-shirt - <http://www.cafepress.com/mf/15583135/unixepochcom_tshirt?shop=unixepoch&productId=85255695>
+
+- Emoji cheat sheet - <http://www.webpagefx.com/tools/emoji-cheat-sheet/>
+
+- Explaining quantum computing to children - <https://www.youtube.com/watch?v=y8eXv57kkck>
